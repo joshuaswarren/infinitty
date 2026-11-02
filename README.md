@@ -368,3 +368,7 @@ shell-integration/       OSC 133 zsh hook
 ## License
 
 MIT © [Jason Kneen](https://github.com/jasonkneen) · [infinitty.ai](https://infinitty.ai)
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
